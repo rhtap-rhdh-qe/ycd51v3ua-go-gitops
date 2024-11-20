@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ycd51v3ua-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ycd51v3ua-go-gitops
